@@ -1,6 +1,6 @@
 # Vibe Coding
 
-Sitio web informativo sobre qué es el Vibe Coding, sus críticas y recomendaciones para utilizar la inteligencia artificial en programación. Proyecto realizado con HTML, CSS y JavaScript básico.
+El tema escogido, de los que fueron desginados por el profesor fue el Vibe Coding, sus críticas y recomendaciones para utilizar la inteligencia artificial en programación. Proyecto realizado con HTML, CSS y JavaScript básico.
 
 ## Páginas
 - `index.html`: concepto y origen.
